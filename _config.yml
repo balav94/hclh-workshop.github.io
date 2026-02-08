@@ -1,0 +1,17 @@
+title: "High-Precision Computing on Low-Precision Hardware (HCLH)"
+description: "SC Workshop: precision-aware scientific computing on modern low-precision hardware"
+theme: minima
+
+# Top navigation (tabs)
+header_pages:
+  - call-for-papers.md
+  - important-dates.md
+  - program.md
+  - accepted-papers.md
+  - organizers.md
+  - contact.md
+
+# Optional: show downloads (e.g., proposal PDF) on the homepage via custom links
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/YOUR-ORG/YOUR-REPO" }
