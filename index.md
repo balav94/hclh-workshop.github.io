@@ -10,8 +10,6 @@ This workshop brings together researchers, application scientists, system and li
 
 Modern accelerators increasingly favor reduced-precision arithmetic (e.g., FP16/BF16/TF32/FP8) for performance and energy efficiency, while many scientific workloads still require numerical accuracy, stability, and reproducibility. HCLH focuses on algorithms, software, tooling, and community-driven artifacts that help bridge this gap.
 
-**Download:** [Workshop proposal (PDF)](assets/proposal.pdf)
-
 ## Topics of interest
 Submissions may include (but are not limited to):
 
