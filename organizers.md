@@ -11,7 +11,7 @@ title: Organizers
 - **Hao Lu**, Oak Ridge National Laboratory (ORNL)
 - **Piotr Luszczek**, MIT Lincoln Laboratory
 - **Paul Lin**, Lawrence Berkeley National Laboratory (LBNL)
-- **Balavignesh Vemparala**, Synopsys Inc.
+- **Balavignesh Vemparala**, Synopsys, Inc.
 
 ## Steering / program committee
 **TBD**
